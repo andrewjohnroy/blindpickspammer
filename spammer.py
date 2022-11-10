@@ -1,6 +1,8 @@
 """Mid Spammer for allpick in League of Legends
 
-This spams mid by pressing mouse3, typing "mid", then pressing enter
+Spams mid in chat when you press the scroll wheel down.
+
+You must place your mouse over the chat input area first.
 """
 import mouse
 import keyboard
