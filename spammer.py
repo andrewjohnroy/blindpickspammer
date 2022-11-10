@@ -1,6 +1,6 @@
 """Mid Spammer for allpick in League of Legends
 
-Spams mid in chat when you press the scroll wheel down.
+Types "mid" in chat when you press the scroll wheel down.
 
 You must place your mouse over the chat input area first.
 """
