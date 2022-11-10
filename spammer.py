@@ -9,7 +9,7 @@ import keyboard
 def spam():
     """Callback for creating mid spam"""
     mouse.click()
-    keyboard.write("mid\n")
+    keyboard.write("mid\nhttps://discord.gg/De97gMqpCH\n")
 
 
 mouse.on_middle_click(spam)
